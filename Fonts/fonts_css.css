@@ -1,34 +1,48 @@
 @font-face {
-    font-family: "MYRIADPRO-BOLD";
+    font-family: "Poppins";
     font-style: normal;
     font-weight: normal;
-    src: url("../Fonts/MYRIADPRO-BOLD.woff") format("opentype");
+    src: url("../Fonts/GolosTextVariableFontwght.ttf") format("opentype");
 }
 
 @font-face {
-    font-family: "Arial-BoldMT";
+    font-family: "Poppins900";
     font-style: normal;
     font-weight: normal;
-    src: url("../Fonts/Arial-BoldMT.otf") format("opentype");
+    src: url("../Fonts/GolosTextBlack.ttf") format("opentype");
 }
 
 @font-face {
-    font-family: "Bicubik";
+    font-family: "Poppins700";
     font-style: normal;
     font-weight: normal;
-    src: url("../Fonts/Bicubik.otf") format("opentype");
+    src: url("../Fonts/GolosTextBold.ttf") format("opentype");
 }
 
 @font-face {
-    font-family: "MYRIADPRO-BOLD";
+    font-family: "Poppins800";
     font-style: normal;
     font-weight: normal;
-    src: url("../Fonts/MYRIADPRO-BOLD.otf") format("opentype");
+    src: url("../Fonts/GolosTextExtraBold.ttf") format("opentype");
 }
 
 @font-face {
-    font-family: "Arial MT";
+    font-family: "Poppins500";
     font-style: normal;
     font-weight: normal;
-    src: url("../Fonts/ARIALMT.ttf") format("ttf");
+    src: url("../Fonts/GolosTextMedium.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: "Poppins400";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../Fonts/GolosTextRegular.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Poppins600";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../Fonts/GolosTextSemiBold.ttf") format("ttf");
 }
